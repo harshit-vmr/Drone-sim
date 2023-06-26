@@ -1,11 +1,9 @@
-# Drone-Swarm-Simulator
+# *Drone-Swarm-Simulator*
 A unity project for Drone Swarm Simulation
+ 
 
 
-# *Project Entry Points*  
-
-
-'**1. Software Requiremnts **'
+## 1. Software Requiremnts
 
 Unity Hub -  Latest Version
 
@@ -15,14 +13,14 @@ Visual Studio - 2019
 
 Windows/Linux OS
 
-'**  2. How To Execute Scene **'
+##  2. How To Execute Scene 
 
 i. Open Project in Unity3D.
 ii. Go to Assets -> Scenes -> Final Scenes.
-iii. Open '*FinalVideo*' Scene and click on play button.
+iii. Open ***FinalVideo*** Scene and click on play button.
 iv. Select leader drone and Check '*Go*' checkbox of Leader Waypoints section in Inspector.
 
-'**  3. Important Points **'
+##  3. Important Points 
 
 
 **  Assets -> Scenes -> Final Scenes **    Contains all the required scenes simulated for Swarm
