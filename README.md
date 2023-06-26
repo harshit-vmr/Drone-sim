@@ -23,11 +23,11 @@ iv. Select leader drone and Check '*Go*' checkbox of Leader Waypoints section in
 ##  3. Important Points 
 
 
-***  Assets -> Scenes -> Final Scenes ***    Contains all the required scenes simulated for Swarm
+***Assets -> Scenes -> Final Scenes***    Contains all the required scenes simulated for Swarm
 
-***  Assets -> Scripts -> Final Scripts ***  Contains all the scripts files for Swarm
+***Assets -> Scripts -> Final Scripts***  Contains all the scripts files for Swarm
 
-*** Leader Waypoints movements is provided for Finalvideo.  To run any other environments. Modify Leader Waypoints accordingly. It is present in Assets -> Scripts -> Final Scripts. and create waypoints in that environments. ***
+***Leader Waypoints movements is provided for Finalvideo.  To run any other environments. Modify Leader Waypoints accordingly. It is present in Assets -> Scripts -> Final Scripts. and create waypoints in that environments.***
 
 
 
